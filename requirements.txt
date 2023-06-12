@@ -1,0 +1,13 @@
+pytest
+numpy
+scipy
+matplotlib
+scikit-learn
+tqdm
+pandas
+torch
+torchvision
+git+https://github.com/LarsKue/lightning-trainable.git#lightning_trainable
+git+https://github.com/vislearn/FrEIA.git#FrEIA
+sacred
+incense
