@@ -5,7 +5,7 @@ This is the official `PyTorch` implementation of [our ICML 2023 paper](https://i
 ```bibtex
 @inproceedings{draxler2023convergence,
     title = {{On the Convergence Rate of Gaussianization with Random Rotations}},
-    author = {Draxler, Felix and Kühmichl, Lars and Rousselot, Armand and Müller, Jens and Schnörr, Christoph and Köthe, Ullrich},
+    author = {Draxler, Felix and Kühmichel, Lars and Rousselot, Armand and Müller, Jens and Schnörr, Christoph and Köthe, Ullrich},
     booktitle = {International Conference on Machine Learning},
     year = {2023}
 }
